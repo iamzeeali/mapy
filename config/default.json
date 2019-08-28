@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://iamzeeali:globus2015@glcluster-4yhn2.mongodb.net/test?retryWrites=true&w=majority"
+}
