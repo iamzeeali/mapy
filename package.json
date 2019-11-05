@@ -19,7 +19,7 @@
     "express-handlebars": "^3.1.0",
     "express-validator": "^6.1.1",
     "google-maps-react": "^2.0.2",
-    "mongoose": "^5.6.10"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "concurrently": "^4.1.2",
